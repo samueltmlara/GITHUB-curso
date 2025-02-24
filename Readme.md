@@ -1,6 +1,5 @@
 # Git Course
 Test repositorio
 
-Nova edição após commit
 
-Teste para subir edição ao github
+Alteração para a versão 1.0.1
